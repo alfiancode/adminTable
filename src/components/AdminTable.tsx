@@ -8,7 +8,7 @@ import TableRow from "@mui/material/TableRow";
 import * as React from "react";
 import companyData from "../data/company_data.json";
 
-import ProjectRow from "./projectRow";
+import ProjectRow from "./ProjectRow";
 
 const AdminTable = () => {
   const { adminCategories } = companyData;
