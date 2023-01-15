@@ -1,7 +1,7 @@
 import { TableCell, TableRow } from "@mui/material";
 import React from "react";
 import projectData from "../data/project_data.json";
-import PermitCard from "./permitCard";
+import PermitCard from "./PermitCard";
 import companyData from "../data/company_data.json";
 import { Box } from "@mui/system";
 
